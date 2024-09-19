@@ -1,2 +1,2 @@
 # Eddie
- Data Science
+ Javascript

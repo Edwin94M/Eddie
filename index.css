@@ -1,0 +1,35 @@
+#conainer {
+    position: centred;
+    background-color: blue;
+}
+
+h2 {
+    font-size: 50PX;
+    margin: 0;
+    margin-bottom: 20p;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    width: 200px;
+    margin: 5px;
+    border-radius: 5px;
+}
+#increment-btn {
+    background: darkred;
+}
+#save-btn {
+    background: darkgreen;
+}
+#reset-btn {
+    background-color: aquamarine;
+}
+
+#save-el {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+
+}

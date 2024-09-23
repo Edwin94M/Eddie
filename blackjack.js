@@ -50,5 +50,5 @@ function newCard() {
     sum += card + 
     cards.push(card)
     console.log(cards)
-    //renderGame()
+    renderGame()
 }
